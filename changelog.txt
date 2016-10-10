@@ -1,3 +1,2 @@
-2016.10.10 - Created Project
-
-Kiss Márk András - GrimBiscuit
+2016.10.10  - Created Project
+            - Added name to readme
